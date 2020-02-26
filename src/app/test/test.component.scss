@@ -1,0 +1,48 @@
+.intro {
+    background-image: url('../../assets/img/fusion-free.jpg.png');
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+  }
+  .firstbox{
+      border: 1px grey solid;
+      height: 180px;
+      width: 480px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      top: 0;
+      left: 0;
+      font-family:  'Noto Serif TC', serif;
+      font-size: 29px;
+      margin-bottom: 20px;
+  }
+  .sbox {
+    font-size: 8px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .strategy{
+padding: 8px;
+padding-top: 1px;
+padding-bottom: 1px;
+border-left: solid 1px #f7ac53;
+border-right: solid 1px #f7ac53;
+  }
+  .firstbottomleft {
+    bottom: 5%;
+    left: 20%;
+    position: absolute;
+
+  }
+  .firtbottomright{
+    bottom: 7%;
+    right: 20%;
+    position: absolute;
+  }
